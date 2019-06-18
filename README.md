@@ -20,9 +20,9 @@ Dairy Qu3Яy
 Cody Drew, David Harris, Lehna Mgwa, Ali Sarkeshik
 
 # Technologies
-Boostrap
-Express
-JS/JQuery
-Heroku
-Node
-Handlebars
+Boostrap <br>
+Express <br>
+JS/JQuery <br>
+Heroku <br>
+Node <br>
+Handlebars <br>
