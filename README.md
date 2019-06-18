@@ -2,7 +2,7 @@
 
 Pub-Crawl is an application designed for beer lovers everywhere!  Whether you are a fan of a complex IPA or a simple lager, Pub-Crawl is designed to help you match with a brewery that you probably have never heard of, but you will definitely love.
 
-#Heroku Link
+# Heroku Link
 <a href="https://dairyquery-pubcrawl.herokuapp.com/">See Deployed App on Heroku Here.</a>
 
 # Instructions
@@ -16,10 +16,10 @@ Upon completion of the assessment you will be directed to the last page, which w
 # Team Name
 Dairy Qu3Яy
 
-#Project Developers
+# Project Developers
 Cody Drew, David Harris, Lehna Mgwa, Ali Sarkeshik
 
-#Technologies
+# Technologies
 Boostrap
 Express
 JS/JQuery
